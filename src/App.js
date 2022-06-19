@@ -9,7 +9,7 @@ const Navbar = lazy(() => import('./Navbar'));
 const Makanan = lazy(() => import('./Makanan'));
 const Minuman = lazy(() => import('./Minuman'));
 const Appetaizer = lazy(() => import('./Appetaizer'));
-
+const Api = lazy(() => import('./Api'));
 function App() {
   return (
     <Router>
@@ -21,6 +21,7 @@ function App() {
         <Route path="/Makanan" element={<Makanan />} />
         <Route path="/Minuman" element={<Minuman />} />
         <Route path="/Appetaizer" element={<Appetaizer />} />
+        <Route path="/Api" element={<Api />} />
       </Routes>
     </Suspense>
   </Router>
