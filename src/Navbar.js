@@ -8,6 +8,7 @@ const navigation = [
   { name: 'Makanan', href: 'Makanan' },
   { name: 'Minuman', href: 'Minuman' },
   { name: 'Appetaizer', href: 'Appetaizer' },
+  { name: 'Api', href: 'Api' },
 
 ]
 
