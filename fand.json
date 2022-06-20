@@ -2,8 +2,8 @@
   {
     "id": 1,
     "name": "Feby Alya Noor Dhiana",
-    "username": "BEP354",
-    "email": "ellangPermadi@yahoo.com",
+    "username": "Fan",
+    "email": "febyalyanoordhiana@gmail.com",
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
@@ -14,9 +14,9 @@
         "lng": "81.1496"
       }
     },
-    "phone": "0858-7971-8354",
-    "Alamat": "Kroya",
-    "NIM": "2103040015",
+    "phone": "0852-1236-4411",
+    "Alamat": "Ciamis",
+    "NIM": "2103040034",
     "company": {
       "name": "Romaguera-Crona",
       "catchPhrase": "Multi-layered client-server neural-net",
@@ -25,7 +25,7 @@
   },
   {
     "id": 2,
-    "name": "Dicky Andrean",
+    "name": "Dicky Arhansyah",
     "username": "Dicky-Gaming",
     "email": "Dicky@gmail.com",
     "address": {
