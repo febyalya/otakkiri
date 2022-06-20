@@ -26,7 +26,7 @@
   {
     "id": 2,
     "name": "Dicky Arhansyah",
-    "username": "Dicky-Gaming",
+    "username": "Dicky",
     "email": "Dicky@gmail.com",
     "address": {
       "street": "Victor Plains",
@@ -39,7 +39,7 @@
       }
     },
     "phone": "082-2005-8142",
-    "Alamat": "Pemalang",
+    "Alamat": "Bandung",
     "NIM": "2103040016",
     "company": {
       "name": "Deckow-Crist",
@@ -49,9 +49,9 @@
   },
   {
     "id": 3,
-    "name": "Bima Al Tawab",
-    "username": "Bima",
-    "email": "Bimatawab@gmail.com",
+    "name": "Iqbal Bpp",
+    "username": "Iqbal",
+    "email": "iqbalbpp@gmail.com",
     "address": {
       "street": "Douglas Extension",
       "suite": "Suite 847",
@@ -63,7 +63,7 @@
       }
     },
     "phone": "0878-2524-9031",
-    "Alamat": "Kemranjen",
+    "Alamat": "Tasik",
     "NIM": "2103040017",
     "company": {
       "name": "Romaguera-Jacobson",
@@ -73,9 +73,9 @@
   },
   {
     "id": 4,
-    "name": "Mela Refa Khan",
-    "username": "Revan-12",
-    "email": "RevanKhan@gmail.com",
+    "name": "Yosi ASF",
+    "username": "Ndut",
+    "email": "ysiasf@gmail.com",
     "address": {
       "street": "Hoeger Mall",
       "suite": "Apt. 692",
@@ -87,7 +87,7 @@
       }
     },
     "phone": "0878-0413-5926",
-    "Alamat": "Sampang",
+    "Alamat": "Majalengka",
     "NIM": "2103040018",
     "company": {
       "name": "Robel-Corkery",
@@ -97,9 +97,9 @@
   },
   {
     "id": 5,
-    "name": "Rangga-Khan",
-    "username": "Rangga33",
-    "email": "RanggaKhan@gmail.com",
+    "name": "Angga Aditia P",
+    "username": "angga",
+    "email": "anggaap@gmail.com",
     "address": {
       "street": "Skiles Walks",
       "suite": "Suite 351",
@@ -111,7 +111,7 @@
       }
     },
     "phone": "(254)954-1289",
-    "Alamat": "Kebumen",
+    "Alamat": "Cilegon",
     "NIM": "2103040019",
     "company": {
       "name": "Keebler LLC",
@@ -121,9 +121,9 @@
   },
   {
     "id": 6,
-    "name": "Dennis",
-    "username": "Dennis_Gaming",
-    "email": "Dennis@gmail.com",
+    "name": "Agis Antika",
+    "username": "Agnes",
+    "email": "Agmo@gmail.com",
     "address": {
       "street": "Norberto Crossing",
       "suite": "Apt. 950",
@@ -135,7 +135,7 @@
       }
     },
     "phone": "1-477-935-8478 x6430",
-    "Alamat": "Cilacap",
+    "Alamat": "Banjar",
     "NIM": "2103040020",
     "company": {
       "name": "Considine-Lockman",
@@ -145,9 +145,9 @@
   },
   {
     "id": 7,
-    "name": "Markonah",
-    "username": "Markonah-Skuy",
-    "email": "Markonah@gmail.com",
+    "name": "Auryn Bayu",
+    "username": "Ain",
+    "email": "aurynbayu@gmail.com",
     "address": {
       "street": "Rex Trail",
       "suite": "Suite 280",
@@ -159,7 +159,7 @@
       }
     },
     "phone": "210.067.6132",
-    "Alamat": "Nusawungu",
+    "Alamat": "Kuningan",
     "NIM": "2103040021",
     "company": {
       "name": "Johns Group",
@@ -183,7 +183,7 @@
       }
     },
     "phone": "586.493.6943 x140",
-    "Alamat": "India",
+    "Alamat": "",
     "NIM": "2103040022",
     "company": {
       "name": "Abernathy Group",
@@ -193,9 +193,9 @@
   },
   {
     "id": 9,
-    "name": "Glenna Reichert",
+    "name": "Nazwa Kamila",
     "username": "Delphine",
-    "email": "Chaim_McDermott@dana.io",
+    "email": "nazwakamila@gmail.com",
     "address": {
       "street": "Dayna Park",
       "suite": "Suite 449",
@@ -207,7 +207,7 @@
       }
     },
     "phone": "(775)976-6794 x41206",
-    "Alamat": "Purbalingga",
+    "Alamat": "Yogyakarta",
     "NIM": "2103040023",
     "company": {
       "name": "Yost and Sons",
@@ -217,9 +217,9 @@
   },
   {
     "id": 10,
-    "name": "Clementina DuBuque",
+    "name": "Ziyad Fariz Al-faqih",
     "username": "Moriah.Stanton",
-    "email": "Rey.Padberg@karina.biz",
+    "email": "ziyadfarizalfakih@gmail.com",
     "address": {
       "street": "Kattie Turnpike",
       "suite": "Suite 198",
@@ -231,7 +231,7 @@
       }
     },
     "phone": "024-648-3804",
-    "Alamat": "Purwokerto",
+    "Alamat": "Semarang",
     "NIM": "2103040024",
     "company": {
       "name": "Hoeger LLC",
